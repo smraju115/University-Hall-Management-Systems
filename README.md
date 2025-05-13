@@ -37,7 +37,7 @@ This system follows a Role-Based Authentication and Authorization mechanism impl
 * Database: SQL Server (via Entity Framework Core - Code First)
 
 * Security: JWT-based Authentication and Authorization
-* 
+  
 ## ⚙️ How to Run
 
 1. Clone this repo
