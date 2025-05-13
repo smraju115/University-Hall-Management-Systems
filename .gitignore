@@ -1,0 +1,44 @@
+# ============================
+# ASP.NET Core (Backend)
+# ============================
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.dbmdl
+*.log
+*.ncrunch*
+*.vscode/
+
+# Secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/appsettings.*.json
+
+# Entity Framework generated
+**/Migrations/
+
+# ============================
+# Angular (Frontend)
+# ============================
+node_modules/
+dist/
+tmp/
+.env
+.angular/
+.angular-cache/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
