@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
+      "PackagePath": "staticwebassets\\NoticeFiles\\ClassOff - Copy.pdf"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
+      "PackagePath": "staticwebassets\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
+      "PackagePath": "staticwebassets\\NoticeFiles\\Resume of Raju - Copy.pdf"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
+      "PackagePath": "staticwebassets\\NoticeFiles\\sl0qicog.pdf"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\2.jpg"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\3.jpg"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\3atd2h1y.jpg"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\4.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\4.jpg"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\5.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\5.jpg"
+    },
+    {
+      "Id": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\ecxpe0jc.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HallManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HallManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HallManagement.props",
+      "PackagePath": "build\\HallManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HallManagement.props",
+      "PackagePath": "buildMultiTargeting\\HallManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HallManagement.props",
+      "PackagePath": "buildTransitive\\HallManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "Hash": "/TZvHOgTTjFr2IdDIZORwdItl26SmyPA8HUu+gk4K/U=",
+  "Source": "HallManagement",
+  "BasePath": "_content/HallManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HallManagement\\wwwroot",
+      "Source": "HallManagement",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "NoticeFiles/ClassOff - Copy#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g3bq30g893",
+      "Integrity": "rJ13vKIkU2gAMhJlzFhqHxbQGZGwpNy+KTBkNKZurXA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\NoticeFiles\\ClassOff - Copy.pdf"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "NoticeFiles/ONLY_HONS_MS_FINAL_ADM_GUIDE#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4y2c4y7wys",
+      "Integrity": "FKpTmiF1YuO11anXCz5l1fsZAT4WB/d6prq9bp6Byx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "NoticeFiles/Resume of Raju - Copy#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oarwo4vb0u",
+      "Integrity": "MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "NoticeFiles/sl0qicog#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oarwo4vb0u",
+      "Integrity": "MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\NoticeFiles\\sl0qicog.pdf"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\1.jpg",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "Pictures/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "six0cegdcc",
+      "Integrity": "tG1Pdxb8H7s8djSjid+01Kf8qDzjVuP2I5+qvUKMsaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\1.jpg"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\2.jpg",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "Pictures/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6slrcaim3c",
+      "Integrity": "Bju9Sc1MF/oTtTMeDYxWEZQCTVRVRO/o5D2nWp5RNzI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\2.jpg"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3.jpg",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "Pictures/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o13paufkgi",
+      "Integrity": "VLI3Bv7k5UqQxZ0ns306C+hq2+SOhnk0+FlXA/MSux4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\3.jpg"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "Pictures/3atd2h1y#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "grof66agu7",
+      "Integrity": "5JY2NUEGRHHlkcUqoEHRHVg1VIq52ELSCyS/ZMHbk1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\3atd2h1y.jpg"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\4.jpg",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "Pictures/4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4hwqkatf7c",
+      "Integrity": "GE3w7PxzEfjtPKfMC7PGdF9LpU5xfERJofxxEWLMKqo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\4.jpg"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\5.jpg",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "Pictures/5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ubzpxk4qt",
+      "Integrity": "qEPddKMG/Nx66SJjyfRFF8CqgOao/r+HULkjVdJu/yE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\5.jpg"
+    },
+    {
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
+      "SourceId": "HallManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "BasePath": "_content/HallManagement",
+      "RelativePath": "Pictures/ecxpe0jc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gqmx37qfpt",
+      "Integrity": "qE9WeOE6ZW2k2QhL2qxuFgHjSwM2EQHDG2Nb5zQnEbU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\ecxpe0jc.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "NoticeFiles/ClassOff - Copy.g3bq30g893.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "490372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rJ13vKIkU2gAMhJlzFhqHxbQGZGwpNy+KTBkNKZurXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 16:18:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g3bq30g893"
+        },
+        {
+          "Name": "label",
+          "Value": "NoticeFiles/ClassOff - Copy.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rJ13vKIkU2gAMhJlzFhqHxbQGZGwpNy+KTBkNKZurXA="
+        }
+      ]
+    },
+    {
+      "Route": "NoticeFiles/ClassOff - Copy.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "490372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rJ13vKIkU2gAMhJlzFhqHxbQGZGwpNy+KTBkNKZurXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 16:18:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rJ13vKIkU2gAMhJlzFhqHxbQGZGwpNy+KTBkNKZurXA="
+        }
+      ]
+    },
+    {
+      "Route": "NoticeFiles/ONLY_HONS_MS_FINAL_ADM_GUIDE.4y2c4y7wys.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FKpTmiF1YuO11anXCz5l1fsZAT4WB/d6prq9bp6Byx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 16:10:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4y2c4y7wys"
+        },
+        {
+          "Name": "label",
+          "Value": "NoticeFiles/ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FKpTmiF1YuO11anXCz5l1fsZAT4WB/d6prq9bp6Byx4="
+        }
+      ]
+    },
+    {
+      "Route": "NoticeFiles/ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FKpTmiF1YuO11anXCz5l1fsZAT4WB/d6prq9bp6Byx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 16:10:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FKpTmiF1YuO11anXCz5l1fsZAT4WB/d6prq9bp6Byx4="
+        }
+      ]
+    },
+    {
+      "Route": "NoticeFiles/Resume of Raju - Copy.oarwo4vb0u.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 16:12:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oarwo4vb0u"
+        },
+        {
+          "Name": "label",
+          "Value": "NoticeFiles/Resume of Raju - Copy.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM="
+        }
+      ]
+    },
+    {
+      "Route": "NoticeFiles/Resume of Raju - Copy.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 16:12:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM="
+        }
+      ]
+    },
+    {
+      "Route": "NoticeFiles/sl0qicog.oarwo4vb0u.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 10:42:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oarwo4vb0u"
+        },
+        {
+          "Name": "label",
+          "Value": "NoticeFiles/sl0qicog.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM="
+        }
+      ]
+    },
+    {
+      "Route": "NoticeFiles/sl0qicog.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 29 Dec 2024 10:42:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MKpALdau/7cyQEWdHYwB4keU3Rbx01bTdw+rRyzkMKM="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/1.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tG1Pdxb8H7s8djSjid+01Kf8qDzjVuP2I5+qvUKMsaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tG1Pdxb8H7s8djSjid+01Kf8qDzjVuP2I5+qvUKMsaI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/1.six0cegdcc.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tG1Pdxb8H7s8djSjid+01Kf8qDzjVuP2I5+qvUKMsaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:05:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "six0cegdcc"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tG1Pdxb8H7s8djSjid+01Kf8qDzjVuP2I5+qvUKMsaI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/2.6slrcaim3c.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bju9Sc1MF/oTtTMeDYxWEZQCTVRVRO/o5D2nWp5RNzI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:06:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6slrcaim3c"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bju9Sc1MF/oTtTMeDYxWEZQCTVRVRO/o5D2nWp5RNzI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/2.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bju9Sc1MF/oTtTMeDYxWEZQCTVRVRO/o5D2nWp5RNzI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:06:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bju9Sc1MF/oTtTMeDYxWEZQCTVRVRO/o5D2nWp5RNzI="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/3.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VLI3Bv7k5UqQxZ0ns306C+hq2+SOhnk0+FlXA/MSux4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:06:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VLI3Bv7k5UqQxZ0ns306C+hq2+SOhnk0+FlXA/MSux4="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/3.o13paufkgi.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VLI3Bv7k5UqQxZ0ns306C+hq2+SOhnk0+FlXA/MSux4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:06:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o13paufkgi"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VLI3Bv7k5UqQxZ0ns306C+hq2+SOhnk0+FlXA/MSux4="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/3atd2h1y.grof66agu7.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5JY2NUEGRHHlkcUqoEHRHVg1VIq52ELSCyS/ZMHbk1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 08:42:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "grof66agu7"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/3atd2h1y.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5JY2NUEGRHHlkcUqoEHRHVg1VIq52ELSCyS/ZMHbk1s="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/3atd2h1y.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5JY2NUEGRHHlkcUqoEHRHVg1VIq52ELSCyS/ZMHbk1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 08:42:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5JY2NUEGRHHlkcUqoEHRHVg1VIq52ELSCyS/ZMHbk1s="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/4.4hwqkatf7c.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GE3w7PxzEfjtPKfMC7PGdF9LpU5xfERJofxxEWLMKqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:07:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4hwqkatf7c"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GE3w7PxzEfjtPKfMC7PGdF9LpU5xfERJofxxEWLMKqo="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/4.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GE3w7PxzEfjtPKfMC7PGdF9LpU5xfERJofxxEWLMKqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:07:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GE3w7PxzEfjtPKfMC7PGdF9LpU5xfERJofxxEWLMKqo="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/5.0ubzpxk4qt.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEPddKMG/Nx66SJjyfRFF8CqgOao/r+HULkjVdJu/yE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:07:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ubzpxk4qt"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qEPddKMG/Nx66SJjyfRFF8CqgOao/r+HULkjVdJu/yE="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/5.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEPddKMG/Nx66SJjyfRFF8CqgOao/r+HULkjVdJu/yE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 12:07:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qEPddKMG/Nx66SJjyfRFF8CqgOao/r+HULkjVdJu/yE="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/ecxpe0jc.gqmx37qfpt.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qE9WeOE6ZW2k2QhL2qxuFgHjSwM2EQHDG2Nb5zQnEbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 15:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gqmx37qfpt"
+        },
+        {
+          "Name": "label",
+          "Value": "Pictures/ecxpe0jc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qE9WeOE6ZW2k2QhL2qxuFgHjSwM2EQHDG2Nb5zQnEbU="
+        }
+      ]
+    },
+    {
+      "Route": "Pictures/ecxpe0jc.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qE9WeOE6ZW2k2QhL2qxuFgHjSwM2EQHDG2Nb5zQnEbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 15:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qE9WeOE6ZW2k2QhL2qxuFgHjSwM2EQHDG2Nb5zQnEbU="
+        }
+      ]
+    }
+  ]
+}

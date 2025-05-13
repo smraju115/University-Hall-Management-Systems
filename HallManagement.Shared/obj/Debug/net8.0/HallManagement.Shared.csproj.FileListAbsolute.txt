@@ -1,0 +1,72 @@
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.deps.json
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.dll
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.pdb
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.AssemblyReference.cache
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfo.cs
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.dll
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\obj\Debug\net8.0\refint\HallManagement.Shared.dll
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.pdb
+C:\Users\Kamrul\Desktop\HallManagement\HallManagement.Shared\obj\Debug\net8.0\ref\HallManagement.Shared.dll
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.deps.json
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.dll
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.pdb
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.AssemblyReference.cache
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfoInputs.cache
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfo.cs
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.CoreCompileInputs.cache
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.dll
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\obj\Debug\net8.0\refint\HallManagement.Shared.dll
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.pdb
+F:\FP\FromKamrulVai\HallManagement\HallManagement.Shared\obj\Debug\net8.0\ref\HallManagement.Shared.dll
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.deps.json
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.dll
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.pdb
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.AssemblyReference.cache
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfoInputs.cache
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfo.cs
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.CoreCompileInputs.cache
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.dll
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\refint\HallManagement.Shared.dll
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.pdb
+E:\IDB\FInal Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\ref\HallManagement.Shared.dll
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.deps.json
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.dll
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.pdb
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.AssemblyReference.cache
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfo.cs
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.dll
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\refint\HallManagement.Shared.dll
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.pdb
+C:\Users\Kamrul\Desktop\New folder\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\ref\HallManagement.Shared.dll
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.deps.json
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.dll
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.pdb
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.AssemblyReference.cache
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfoInputs.cache
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfo.cs
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.CoreCompileInputs.cache
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.dll
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\refint\HallManagement.Shared.dll
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.pdb
+E:\IDB\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\ref\HallManagement.Shared.dll
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.deps.json
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.dll
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.pdb
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.AssemblyReference.cache
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfoInputs.cache
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfo.cs
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.CoreCompileInputs.cache
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.dll
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\refint\HallManagement.Shared.dll
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.pdb
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\ref\HallManagement.Shared.dll
