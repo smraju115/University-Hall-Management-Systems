@@ -1,0 +1,74 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #drawer class="sidenav" fixedInViewport [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+    [mode]="'over'" [opened]="false">
+   <!--  <mat-toolbar color="primary">Menu</mat-toolbar>
+     <mat-nav-list>
+      <a mat-list-item [routerLink]="['/home']">Home</a>
+      <a mat-list-item [routerLink]="['/student']">Student</a>
+      <a mat-list-item [routerLink]="['/notice']">Notice</a>
+      <a mat-list-item [routerLink]="['/request']">Request</a>
+
+    </mat-nav-list> -->
+    <ng-material-multilevel-menu [configuration]='config' [items]='navigationItems'>
+    </ng-material-multilevel-menu>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar color="primary" class="">
+      <a mat-button [routerLink]="['/home']">
+        <h3>UHMS</h3>
+      </a>
+      <a mat-button [routerLink]="['/home']"><mat-icon>home</mat-icon>Home</a>
+
+      <!-- Menu items based on role -->
+      <ng-container *ngIf="isAdminLoggedIn == 1">
+        <a  mat-button [matMenuTriggerFor]="StudentMenu"><mat-icon>group</mat-icon>Student</a>
+        <mat-menu #StudentMenu="matMenu">
+          <button mat-menu-item [routerLink]="['/student-list']">Students</button>
+          <button mat-menu-item [routerLink]="['/request-list']">Request</button>
+          <button mat-menu-item>Payments</button>
+        </mat-menu>
+
+        <a mat-button [matMenuTriggerFor]="HallMenu"><mat-icon>apartment</mat-icon>Halls</a>
+        <mat-menu #HallMenu="matMenu">
+          <button mat-menu-item [routerLink]="['/hall-list']">Hall</button>
+          <button mat-menu-item [routerLink]="['/hall-block-list']">Hall-Block</button>
+          <button mat-menu-item [routerLink]="['/hall-floor-list']">Hall-Floor</button>
+          <button mat-menu-item [routerLink]="['/room-list']">Room</button>
+          <button mat-menu-item [routerLink]="['/seatwithroom-list']">Seat-With-Room</button>
+          <button mat-menu-item [routerLink]="['/studentroom-list']">Student-Room</button>
+          <button mat-menu-item [routerLink]="['/admin-notice-list']">Notices</button>
+
+        </mat-menu>
+        <a mat-button [routerLink]="['/admin-dashboard']"><mat-icon>info</mat-icon>AdminDashboard</a>
+      </ng-container>
+
+      <ng-container *ngIf="isAdminLoggedIn == 2">
+        <a mat-button [routerLink]="['/user-dashboard']"><mat-icon>info</mat-icon>UserDashboard</a>
+      </ng-container>
+
+      <a mat-button [routerLink]="['/notice']"><mat-icon>event_note</mat-icon>Notice</a>
+      <a mat-button [routerLink]="['/about']"><mat-icon>turned_in_not</mat-icon>About</a>
+      <!-- <mat-menu #AboutMenu="matMenu" yPosition="below">
+        <button mat-menu-item>Hall History</button>
+        <button mat-menu-item>Mission & Vission</button>
+        <button mat-menu-item>Gallery</button>
+      </mat-menu> -->
+
+     <!-- Login/Logout Button -->
+     <span class="spacer"></span>
+     <a class="user">{{ authService.userName }} &nbsp; </a>
+
+      <a mat-button  [routerLink]="['/login']" *ngIf="!isLoggedIn"><mat-icon>login</mat-icon>Login</a>
+
+      <button mat-button (click)="logout()" *ngIf="isLoggedIn">
+        <mat-icon>logout</mat-icon>
+        <span>Logout</span>
+      </button>
+
+    </mat-toolbar>
+
+    <div class="main-container">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

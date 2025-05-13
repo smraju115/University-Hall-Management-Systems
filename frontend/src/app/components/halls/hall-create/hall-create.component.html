@@ -1,0 +1,94 @@
+<mat-card class="medium-container">
+  <mat-card-header>
+    <mat-card-title>Create New Hall</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    {{hallForm.value|json}}
+    <form [formGroup]="hallForm" (ngSubmit)="save()">
+
+      <mat-form-field class="f-w">
+        <mat-label>Hall Name</mat-label>
+        <input type="text" matInput formControlName="hallName">
+        <mat-error *ngIf="f['hallName'].touched && f['hallName'].hasError('required')">
+          Hall Name is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Hall Type</mat-label>
+        <mat-select formControlName="hallType">
+          <mat-option value="Male">Male</mat-option>
+          <mat-option value="Female">Female</mat-option>
+        </mat-select>
+        <mat-error *ngIf="f['hallType'].touched && f['hallType'].hasError('required')">
+          Hall Type is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Hall Capacity</mat-label>
+        <input type="number" matInput formControlName="hallCapacity">
+        <mat-error *ngIf="f['hallCapacity'].touched && f['hallCapacity'].hasError('required')">
+          Hall Capacity is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Total Rooms</mat-label>
+        <input type="number" matInput formControlName="totalRooms">
+        <mat-error *ngIf="f['totalRooms'].touched && f['totalRooms'].hasError('required')">
+          Total Room Number is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>YearInaugurated</mat-label>
+        <input matInput formControlName="yearInaugurated" [matDatepicker]="picker">
+        <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker></mat-datepicker>
+        <mat-error *ngIf="f['yearInaugurated'].touched && f['yearInaugurated'].hasError('required')">
+          yearInaugurated is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+
+      <mat-form-field class="f-w">
+        <mat-label>Created Date</mat-label>
+        <input matInput formControlName="createdDate" [matDatepicker]="picker1">
+        <mat-datepicker-toggle matIconSuffix [for]="picker1"></mat-datepicker-toggle>
+        <mat-datepicker #picker1></mat-datepicker>
+        <mat-error *ngIf="f['createdDate'].touched && f['createdDate'].hasError('required')">
+          Created Date is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Created User ID</mat-label>
+        <input type="number" matInput formControlName="createdUserId">
+        <mat-error *ngIf="f['createdUserId'].touched && f['createdUserId'].hasError('required')">
+          createdUserId  is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Modified Date</mat-label>
+        <input matInput formControlName="modifiedDate" [matDatepicker]="picker2">
+        <mat-datepicker-toggle matIconSuffix [for]="picker2"></mat-datepicker-toggle>
+        <mat-datepicker #picker2></mat-datepicker>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Modified User ID</mat-label>
+        <input type="number" matInput formControlName="modifiedUserId">
+      </mat-form-field>
+
+      <div class="f-w">
+        <button mat-raised-button type="submit" color="primary" [disabled]="hallForm.invalid">Save</button>
+      </div>
+
+    </form>
+  </mat-card-content>
+  <mat-card-actions>
+    <a mat-button [routerLink]="['/hall-list']">Back to list</a>
+  </mat-card-actions>
+</mat-card>

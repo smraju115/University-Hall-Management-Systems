@@ -1,0 +1,61 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title>Room</mat-card-title>
+    <mat-card-subtitle>List of Rooms</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+
+    <div class="right">
+      <a [routerLink]="['/room-create']" mat-mini-fab><mat-icon>add</mat-icon></a>
+    </div>
+
+    <mat-table [dataSource]="dataSource" matSort class="">
+
+      <ng-container matColumnDef="serial">
+        <mat-header-cell *matHeaderCellDef>SL#</mat-header-cell>
+        <mat-cell *matCellDef="let element; let i = index">{{ i + 1 }}</mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="roomNo">
+        <mat-header-cell *matHeaderCellDef>Room No</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.roomNo}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="roomType">
+        <mat-header-cell *matHeaderCellDef>Room Type</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.roomType}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="hallFloorId">
+        <mat-header-cell *matHeaderCellDef>Hall Floor-ID</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.hallFloorId}}</mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="createdDate">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Created Date</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.createdDate |date:'yyyy-MM-dd'}}</mat-cell>
+      </ng-container>
+
+      <ng-container matColumnDef="createdUserId">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Created UserID</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.createdUserId}}</mat-cell>
+      </ng-container>
+
+
+      <ng-container matColumnDef="actions">
+        <mat-header-cell *matHeaderCellDef >Actions</mat-header-cell>
+        <mat-cell *matCellDef="let element">
+          <a type="button" color="primary" mat-icon-button [routerLink]="['/student-edit', element.deviceId]"><mat-icon>edit</mat-icon></a>
+          <button type="button" color="dark" mat-icon-button [routerLink]="['/student-edit']" ><mat-icon>visibility</mat-icon></button>
+          <button type="button" color="warn" mat-icon-button (click)="deleteRoom(element)"><mat-icon>delete</mat-icon></button>
+        </mat-cell>
+      </ng-container>
+
+      <mat-header-row *matHeaderRowDef="columns"></mat-header-row>
+      <mat-row *matRowDef="let row; columns: columns;"></mat-row>
+
+    </mat-table>
+    <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" [pageSize]="5" showFirstLastButtons></mat-paginator>
+
+  </mat-card-content>
+</mat-card>

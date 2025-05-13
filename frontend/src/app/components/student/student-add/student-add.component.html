@@ -1,0 +1,181 @@
+<mat-card class="medium-container">
+  <mat-card-header>
+    <mat-card-title>Create new Student</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    {{stdForm.value|json}}
+    <form [formGroup]="stdForm" (ngSubmit)="save()">
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Student Name</mat-label>
+        <input type="text" matInput formControlName="studentName">
+        <mat-error *ngIf="f['studentName'].touched && f['studentName'].hasError('required')">
+          Student Name is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Department</mat-label>
+        <mat-select formControlName="department">
+          <mat-option value="PA">Public Administration</mat-option>
+          <mat-option value="LJ">Law & Justice</mat-option>
+          <mat-option value="Eco">Economics</mat-option>
+          <mat-option value="Math">Mathematics</mat-option>
+          <mat-option value="Phy">Physics</mat-option>
+          <mat-option value="Es">Environmental Sciences</mat-option>
+          <mat-option value="Eng">English</mat-option>
+          <mat-option value="Che">Chemistry</mat-option>
+          <mat-option value="JMS">Journalism & Media Studies</mat-option>
+
+
+        </mat-select>
+        <mat-error *ngIf="f['department'].touched && f['department'].hasError('required')">
+          Department Name is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Registration Number</mat-label>
+        <input type="number" matInput formControlName="registrationNumber">
+        <mat-error *ngIf="f['registrationNumber'].touched && f['registrationNumber'].hasError('required')">
+          Registration Number is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Roll Number</mat-label>
+        <input type="number" matInput formControlName="rollNumber">
+        <mat-error *ngIf="f['rollNumber'].touched && f['rollNumber'].hasError('required')">
+          Roll Number is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Date of Birth</mat-label>
+        <input matInput formControlName="doB" [matDatepicker]="picker">
+        <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker></mat-datepicker>
+        <mat-error *ngIf="f['doB'].touched && f['doB'].hasError('required')">
+          Date of Birth is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <!-- <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Gender</mat-label>
+        <mat-select formControlName="gender">
+          @for (g of genderOptions; track g) {
+          <mat-option [value]="g.value">{{ g.label }}</mat-option>
+          }
+        </mat-select>
+        <mat-error *ngIf="f['gender'].touched && f['gender'].hasError('required')">
+          Gender Number is <b>required</b>
+        </mat-error>
+      </mat-form-field> -->
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Gender</mat-label>
+        <mat-select formControlName="gender">
+          <mat-option value="Male">Male</mat-option>
+          <mat-option value="Female">Female</mat-option>
+        </mat-select>
+        <mat-error *ngIf="f['gender'].touched && f['gender'].hasError('required')">
+          Gender is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Session</mat-label>
+        <input type="text" matInput formControlName="session">
+        <mat-error *ngIf="f['session'].touched && f['session'].hasError('required')">
+          Seassion is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Student Picture</mat-label>
+        <input readonly="true" type="text" matInput formControlName="picture" />
+        <mat-icon matSuffix (click)="pic.click()">image</mat-icon>
+        <mat-error *ngIf="f['picture'].touched && f['picture'].hasError('required')">
+          Picture is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Student Phone</mat-label>
+        <input type="number" matInput formControlName="studentPhone">
+        <mat-error *ngIf="f['studentPhone'].touched && f['studentPhone'].hasError('required')">
+          Student Phone is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Student Alternative Phone</mat-label>
+        <input type="number" matInput formControlName="studentAltPhone">
+      </mat-form-field>
+
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Present Address</mat-label>
+        <textarea matInput formControlName="presentAddress"></textarea>
+        <mat-error *ngIf="f['presentAddress'].touched && f['presentAddress'].hasError('required')">
+          Present Address is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Parmanent Address</mat-label>
+        <textarea matInput formControlName="permanentAddress"></textarea>
+        <mat-error *ngIf="f['permanentAddress'].touched && f['permanentAddress'].hasError('required')">
+          Permanent Address is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Student Email</mat-label>
+        <input type="email" matInput formControlName="studentEmail">
+        <mat-error *ngIf="f['studentEmail'].touched && f['studentEmail'].hasError('required')">
+          Student Email is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Created Date</mat-label>
+        <input matInput formControlName="createdDate" [matDatepicker]="picker1">
+        <mat-datepicker-toggle matIconSuffix [for]="picker1"></mat-datepicker-toggle>
+        <mat-datepicker #picker1></mat-datepicker>
+        <mat-error *ngIf="f['createdDate'].touched && f['createdDate'].hasError('required')">
+          Created Date is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Created User ID</mat-label>
+        <input type="number" matInput formControlName="createdUserId">
+        <mat-error *ngIf="f['createdUserId'].touched && f['createdUserId'].hasError('required')">
+          Roll Number is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Modified Date</mat-label>
+        <input matInput formControlName="modifiedDate" [matDatepicker]="picker2">
+        <mat-datepicker-toggle matIconSuffix [for]="picker2"></mat-datepicker-toggle>
+        <mat-datepicker #picker2></mat-datepicker>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="f-w">
+        <mat-label>Modified User ID</mat-label>
+        <input type="number" matInput formControlName="modifiedUserId">
+      </mat-form-field>
+
+      <div class="f-w">
+        <button mat-raised-button type="submit" color="primary" [disabled]="stdForm.invalid">Save</button>
+      </div>
+
+      <input type="file" [hidden]="true" #pic (change)="pictureChanged($event)" />
+    </form>
+  </mat-card-content>
+  <mat-card-actions>
+    <a mat-button [routerLink]="['/student-list']">Back to list</a>
+  </mat-card-actions>
+</mat-card>

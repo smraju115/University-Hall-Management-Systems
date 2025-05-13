@@ -1,0 +1,77 @@
+<mat-toolbar color="primary">
+  <span>Student Dashboard</span>
+</mat-toolbar>
+
+<div class="dashboard-container">
+  <mat-grid-list cols="5" rowHeight="150px">
+    <mat-grid-tile>
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title>My Profile</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <p>View and update your profile details.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-raised-button color="primary">View</button>
+        </mat-card-actions>
+      </mat-card>
+    </mat-grid-tile>
+
+    <mat-grid-tile>
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title>My Room</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <p>Check your room allocation and details.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-raised-button color="accent">View</button>
+        </mat-card-actions>
+      </mat-card>
+    </mat-grid-tile>
+
+    <mat-grid-tile>
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title>My Requests</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <p>Create New Request for Room Change or Maintanence</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-raised-button [routerLink]="['/student-request-list']" color="warn">View</button>
+        </mat-card-actions>
+      </mat-card>
+    </mat-grid-tile>
+
+    <mat-grid-tile>
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title>Payments</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <p>View your payment history and pending dues.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-raised-button color="primary">View</button>
+        </mat-card-actions>
+      </mat-card>
+    </mat-grid-tile>
+
+    <mat-grid-tile>
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title>Feedback</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <p>Submit your feedback or complaints.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-raised-button color="accent">Submit</button>
+        </mat-card-actions>
+      </mat-card>
+    </mat-grid-tile>
+  </mat-grid-list>
+</div>

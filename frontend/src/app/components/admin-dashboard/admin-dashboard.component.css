@@ -1,0 +1,108 @@
+.dashboard-container {
+   height: 89vh;
+
+}
+
+.admin-sidenav {
+  width: 250px;
+}
+
+ .content {
+  flex: 1;
+}
+
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.aheader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3f51b5;
+  color: white;
+  padding: 10px;
+}
+
+.dashboard-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+
+ .admin-card {
+  flex: 1 1 calc(25% - 15px);
+  text-align: center;
+  height: 100px;
+  margin-top: 15px;
+  cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  padding: 16px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+ .card-red {
+  border-color: #f44336;
+  background-color: #fdecea;
+  color: #b71c1c;
+}
+
+
+.card-blue {
+  border-color: #2196f3;
+  background-color: #e3f2fd;
+  color: #0d47a1;
+}
+
+
+.card-green {
+  border-color: #4caf50;
+  background-color: #e8f5e9;
+  color: #1b5e20;
+}
+
+
+.card-purple {
+  border-color: #9c27b0;
+  background-color: #f3e5f5;
+  color: #4a148c;
+} 
+
+.card-orange {
+  border-color: #ff9800;
+  background-color: #fff3e0; /* Light orange background */
+  color: #e65100; /* Dark orange text */
+}
+
+/* Cyan Border for Total Halls */
+.card-cyan {
+  border-color: #00bcd4;
+  background-color: #e0f7fa; /* Light cyan background */
+  color: #006064; /* Dark cyan text */
+}
+
+/* Amber Border for Total Floors */
+.card-amber {
+  border-color: #ffc107;
+  background-color: #fff8e1; /* Light amber background */
+  color: #ff6f00; /* Dark amber text */
+}
+
+/* Lime Border for Total Notices */
+.card-lime {
+  border-color: #cddc39;
+  background-color: #f9fbe7; /* Light lime background */
+  color: #827717; /* Dark lime text */
+}
+/* Hover Effect */
+.admin-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+

@@ -1,0 +1,12 @@
+<div class="breaking-news-container">
+  <div class="breaking-news-header">
+    <span style="flex-direction: row;">Important Notices:</span>
+  </div>
+  <div class="breaking-news-content">
+    <marquee behavior="scroll" direction="left" scrollamount="5">
+      <span *ngFor="let news of breakingNewsList; let i = index">
+        {{ news }} <span *ngIf="i < breakingNewsList.length - 1">|</span>
+      </span>
+    </marquee>
+  </div>
+</div>

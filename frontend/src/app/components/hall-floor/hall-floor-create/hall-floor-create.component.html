@@ -1,0 +1,70 @@
+<mat-card class="medium-container">
+  <mat-card-header>
+    <mat-card-title>Create New Hall-Floor</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    {{hallFloorForm.value|json}}
+
+    <form [formGroup]="hallFloorForm" (ngSubmit)="save()">
+
+      <mat-form-field class="f-w">
+        <mat-label>Floor No</mat-label>
+        <input type="number" matInput formControlName="floorNo">
+        <mat-error *ngIf="f['floorNo'].touched && f['floorNo'].hasError('required')">
+          Floor No is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Hall Block-ID</mat-label>
+        <mat-select formControlName="hallBlockId" >
+          <mat-option *ngFor="let hallBlock of hallBlocks" [value]="hallBlock.hallBlockId">
+            {{ hallBlock.blockName }}
+          </mat-option>
+        </mat-select>
+        <mat-error *ngIf="f['hallBlockId'].touched && f['hallBlockId'].hasError('required')">
+          Hall BlockId is <strong>required</strong>
+        </mat-error>
+      </mat-form-field>
+
+
+      <mat-form-field class="f-w">
+        <mat-label>Created Date</mat-label>
+        <input matInput formControlName="createdDate" [matDatepicker]="picker1">
+        <mat-datepicker-toggle matIconSuffix [for]="picker1"></mat-datepicker-toggle>
+        <mat-datepicker #picker1></mat-datepicker>
+        <mat-error *ngIf="f['createdDate'].touched && f['createdDate'].hasError('required')">
+          Created Date is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Created User ID</mat-label>
+        <input type="number" matInput formControlName="createdUserId">
+        <mat-error *ngIf="f['createdUserId'].touched && f['createdUserId'].hasError('required')">
+          createdUserId  is <b>required</b>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Modified Date</mat-label>
+        <input matInput formControlName="modifiedDate" [matDatepicker]="picker2">
+        <mat-datepicker-toggle matIconSuffix [for]="picker2"></mat-datepicker-toggle>
+        <mat-datepicker #picker2></mat-datepicker>
+      </mat-form-field>
+
+      <mat-form-field class="f-w">
+        <mat-label>Modified User ID</mat-label>
+        <input type="number" matInput formControlName="modifiedUserId">
+      </mat-form-field>
+
+      <div class="f-w">
+        <button mat-raised-button type="submit" color="primary" [disabled]="hallFloorForm.invalid">Save</button>
+      </div>
+
+    </form>
+  </mat-card-content>
+  <mat-card-actions>
+    <a mat-button [routerLink]="['/hall-floor-list']">Back to list</a>
+  </mat-card-actions>
+</mat-card>
