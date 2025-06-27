@@ -37,7 +37,15 @@ This system follows a Role-Based Authentication and Authorization mechanism impl
 * Database: SQL Server (via Entity Framework Core - Code First)
 
 * Security: JWT-based Authentication and Authorization
-  
+ 
+# 📷 Screenshot
+
+**Admin Dashboard**
+![Admin Dashboard](PrjoectScreenshot/AdminDashboard.jpg)
+
+**Student Dashboard**
+ (PrjoectScreenshot/StudentDashboard.jpg)
+ 
 ## ⚙️ How to Run
 
 1. Clone this repo
@@ -45,11 +53,6 @@ This system follows a Role-Based Authentication and Authorization mechanism impl
 3. Run `npm install` & `ng serve` inside Angular project
 4. Configure connection string and JWT secret in `appsettings.json`
 
-## 📷 UI Features
-
-- Responsive dashboard for admin and student roles.
-- Material tables and forms.
-- Downloadable notice documents by clicking titles.
 
 ## 🙌 Developed By
 
