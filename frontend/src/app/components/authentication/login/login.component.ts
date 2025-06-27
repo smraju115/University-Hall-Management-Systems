@@ -14,6 +14,8 @@ export class LoginComponent implements OnInit {
 
   data: LoginModel = {};
   returnUrl: string = "/navbar";
+  hidePassword: boolean = true; //
+
   private route = inject(Router);
 
   constructor(
@@ -29,6 +31,10 @@ export class LoginComponent implements OnInit {
       if (x === "logout") {
       }
     });
+  }
+
+  togglePasswordVisibility() {
+    this.hidePassword = !this.hidePassword;
   }
 
   login(f: NgForm) {

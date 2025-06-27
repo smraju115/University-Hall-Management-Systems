@@ -11,9 +11,28 @@
                 <div *ngIf="!identifier.pristine && identifier.errors">Email or phone is required</div>
               </mat-error>
             </mat-form-field>
-            <mat-form-field appearance="outline" class="f-w" >
-              <mat-label>Enter your passwod</mat-label>
+           <!--  <mat-form-field appearance="outline" class="f-w" >
+              <mat-label>Enter your password</mat-label>
               <input matInput name="password" [(ngModel)]="data.password" #password="ngModel" required>
+              <mat-error>
+                <div *ngIf="!password.pristine && password.errors">Password required</div>
+              </mat-error>
+            </mat-form-field> -->
+
+            <mat-form-field appearance="outline" class="f-w">
+              <mat-label>Enter your password</mat-label>
+              <input
+                matInput
+                [type]="hidePassword ? 'password' : 'text'"
+                name="password"
+                [(ngModel)]="data.password"
+                #password="ngModel"
+                required>
+
+              <button mat-icon-button matSuffix type="button" (click)="togglePasswordVisibility()">
+                <mat-icon>{{ hidePassword ? 'visibility_off' : 'visibility' }}</mat-icon>
+              </button>
+
               <mat-error>
                 <div *ngIf="!password.pristine && password.errors">Password required</div>
               </mat-error>

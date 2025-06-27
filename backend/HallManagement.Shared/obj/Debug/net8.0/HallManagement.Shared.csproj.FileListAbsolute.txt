@@ -70,3 +70,16 @@ F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\Hal
 F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\refint\HallManagement.Shared.dll
 F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.pdb
 F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\HallManagement.Shared\obj\Debug\net8.0\ref\HallManagement.Shared.dll
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.deps.json
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.dll
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\bin\Debug\net8.0\HallManagement.Shared.pdb
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.AssemblyReference.cache
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfoInputs.cache
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.AssemblyInfo.cs
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.csproj.CoreCompileInputs.cache
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.sourcelink.json
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.dll
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\refint\HallManagement.Shared.dll
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\HallManagement.Shared.pdb
+F:\FP\Presentation\Final-Project\Final-Project\HallManagement\HallManagement\backend\HallManagement.Shared\obj\Debug\net8.0\ref\HallManagement.Shared.dll

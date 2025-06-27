@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/TZvHOgTTjFr2IdDIZORwdItl26SmyPA8HUu+gk4K/U=",
+  "Hash": "wYEdo72IoJQaJUcak2j3hhuoRkAaUsJNSsSg+nw5TtY=",
   "Source": "HallManagement",
   "BasePath": "_content/HallManagement",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HallManagement\\wwwroot",
       "Source": "HallManagement",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "NoticeFiles/ClassOff - Copy#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\NoticeFiles\\ClassOff - Copy.pdf"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "NoticeFiles/ONLY_HONS_MS_FINAL_ADM_GUIDE#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "NoticeFiles/Resume of Raju - Copy#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "NoticeFiles/sl0qicog#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\NoticeFiles\\sl0qicog.pdf"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\1.jpg",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\1.jpg",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "Pictures/1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Pictures\\1.jpg"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\2.jpg",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\2.jpg",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "Pictures/2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Pictures\\2.jpg"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3.jpg",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\3.jpg",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "Pictures/3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Pictures\\3.jpg"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "Pictures/3atd2h1y#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Pictures\\3atd2h1y.jpg"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\4.jpg",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\4.jpg",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "Pictures/4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Pictures\\4.jpg"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\5.jpg",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\5.jpg",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "Pictures/5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Pictures\\5.jpg"
     },
     {
-      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
+      "Identity": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
       "SourceId": "HallManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\",
+      "ContentRoot": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\",
       "BasePath": "_content/HallManagement",
       "RelativePath": "Pictures/ecxpe0jc#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -251,7 +251,7 @@
   "Endpoints": [
     {
       "Route": "NoticeFiles/ClassOff - Copy.g3bq30g893.pdf",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -272,7 +272,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 16:18:39 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -296,7 +296,7 @@
     },
     {
       "Route": "NoticeFiles/ClassOff - Copy.pdf",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\ClassOff - Copy.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -317,7 +317,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 16:18:39 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -333,7 +333,7 @@
     },
     {
       "Route": "NoticeFiles/ONLY_HONS_MS_FINAL_ADM_GUIDE.4y2c4y7wys.pdf",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -354,7 +354,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 16:10:46 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -378,7 +378,7 @@
     },
     {
       "Route": "NoticeFiles/ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\ONLY_HONS_MS_FINAL_ADM_GUIDE.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -399,7 +399,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 16:10:46 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -415,7 +415,7 @@
     },
     {
       "Route": "NoticeFiles/Resume of Raju - Copy.oarwo4vb0u.pdf",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -436,7 +436,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 16:12:31 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -460,7 +460,7 @@
     },
     {
       "Route": "NoticeFiles/Resume of Raju - Copy.pdf",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\Resume of Raju - Copy.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -481,7 +481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 16:12:31 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -497,7 +497,7 @@
     },
     {
       "Route": "NoticeFiles/sl0qicog.oarwo4vb0u.pdf",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -518,7 +518,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 10:42:04 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -542,7 +542,7 @@
     },
     {
       "Route": "NoticeFiles/sl0qicog.pdf",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\NoticeFiles\\sl0qicog.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -563,7 +563,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 10:42:04 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -579,7 +579,7 @@
     },
     {
       "Route": "Pictures/1.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\1.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -600,7 +600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:05:53 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -616,7 +616,7 @@
     },
     {
       "Route": "Pictures/1.six0cegdcc.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\1.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -637,7 +637,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:05:53 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -661,7 +661,7 @@
     },
     {
       "Route": "Pictures/2.6slrcaim3c.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\2.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -682,7 +682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:06:12 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -706,7 +706,7 @@
     },
     {
       "Route": "Pictures/2.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\2.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -727,7 +727,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:06:12 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -743,7 +743,7 @@
     },
     {
       "Route": "Pictures/3.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -764,7 +764,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:06:48 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -780,7 +780,7 @@
     },
     {
       "Route": "Pictures/3.o13paufkgi.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -801,7 +801,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:06:48 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -825,7 +825,7 @@
     },
     {
       "Route": "Pictures/3atd2h1y.grof66agu7.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -846,7 +846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Dec 2024 08:42:20 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -870,7 +870,7 @@
     },
     {
       "Route": "Pictures/3atd2h1y.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\3atd2h1y.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -891,7 +891,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Dec 2024 08:42:20 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -907,7 +907,7 @@
     },
     {
       "Route": "Pictures/4.4hwqkatf7c.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\4.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -928,7 +928,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:07:29 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -952,7 +952,7 @@
     },
     {
       "Route": "Pictures/4.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\4.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -973,7 +973,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:07:29 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -989,7 +989,7 @@
     },
     {
       "Route": "Pictures/5.0ubzpxk4qt.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\5.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1010,7 +1010,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:07:59 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1034,7 +1034,7 @@
     },
     {
       "Route": "Pictures/5.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\5.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1055,7 +1055,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 12:07:59 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1071,7 +1071,7 @@
     },
     {
       "Route": "Pictures/ecxpe0jc.gqmx37qfpt.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1092,7 +1092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 15:17:26 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1116,7 +1116,7 @@
     },
     {
       "Route": "Pictures/ecxpe0jc.jpg",
-      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
+      "AssetFile": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement\\wwwroot\\Pictures\\ecxpe0jc.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1137,7 +1137,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 15:17:26 GMT"
+          "Value": "Tue, 13 May 2025 17:05:11 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GSI6a3IAFZE=",
+  "dgSpecHash": "wpXz73gz4eY=",
   "success": true,
-  "projectFilePath": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\HallManagement.Shared\\HallManagement.Shared.csproj",
+  "projectFilePath": "F:\\FP\\Presentation\\Final-Project\\Final-Project\\HallManagement\\HallManagement\\backend\\HallManagement.Shared\\HallManagement.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\US\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.11\\microsoft.aspnetcore.cryptography.internal.8.0.11.nupkg.sha512",
     "C:\\Users\\US\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.11\\microsoft.aspnetcore.cryptography.keyderivation.8.0.11.nupkg.sha512",

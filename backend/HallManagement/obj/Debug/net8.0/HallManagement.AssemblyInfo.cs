@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HallManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371c8bc4d467360e30d2a721a9a327edb9cbca8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HallManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HallManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
