@@ -41,10 +41,10 @@ This system follows a Role-Based Authentication and Authorization mechanism impl
 # 📷 Screenshot
 
 **Admin Dashboard**
-![Admin Dashboard](PrjoectScreenshot/AdminDashboard.jpg)
+	![Admin Dashboard](ProjectScreenshot/AdminDashboard.jpg)
 
 **Student Dashboard**
- (PrjoectScreenshot/StudentDashboard.jpg)
+	![Student Dashboard](ProjectScreenshot/StudentDashboard.jpg)
  
 ## ⚙️ How to Run
 
